@@ -2,6 +2,7 @@ Git is a version control system.
 Git is free software.
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
+Git has a mutable index called stage.
 //git 穿梭
 HEAD指向的版本就是当前版本，因此，Git允许我们在版本的历史之间穿梭，使用命令git reset --hard commit_id。
 
